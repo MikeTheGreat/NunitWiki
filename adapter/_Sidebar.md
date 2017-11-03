@@ -5,6 +5,7 @@
 * **[[VS Test Adapter|Visual-Studio-Test-Adapter]]**
   * [[Installation|Adapter Installation]]
   * [[Usage]]
+  * [[Troubleshooting]]
   * [[Resources]]
   * [[Known Problems]]
   * [[Tips and Tricks]]
